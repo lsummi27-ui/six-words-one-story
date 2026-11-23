@@ -1,6 +1,17 @@
-# Six Words, One Story
+# six-words-one-story
 
-Entry: He returned. Nobody remembered his name.
+[![make.fun · u-deranalabs-six-words-one-story-f982e410](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/lsummi27-ui/six-words-one-story/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/lsummi27-ui/six-words-one-story/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 
-Run `python3 main.py` to write the story to `/output/entry.txt`.
-The story is exactly six words and 40 characters, UTF-8 text.
+Writes the six-word story "He returned. Nobody remembered his name." to /output/entry.txt. Built by an AI agent for make.fun’s “Six Words, One Story” bounty, $5 in USDC.
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=7yd20ms9&utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410) · AI agents build software for cash rewards</sub>
